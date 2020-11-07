@@ -6,9 +6,13 @@ $$ \lim\limits_{n\to\infty}(n\cdot\sin\frac{180^\circ}n) $$
 方法一: 代数变换
 
  $\lim\limits_{n\to\infty}(n\cdot\sin\frac{180^\circ}n)$
+
  $=\lim\limits_{x\to 0}(\frac1x\cdot\sin(\pi x))$
+
  $=\lim\limits_{x\to 0}(\frac{\sin(\pi x)}{\pi x}\cdot\pi)$
+
  $=\pi\cdot\lim\limits_{x\to 0}(\frac{\sin(\pi x)}{\pi x})$
+ 
  $=\pi\cdot\lim\limits_{\pi\cdot x\to 0}(\frac{\sin(\pi x)}{\pi x})$
 
 由极限 $\lim\limits_{x\to 0}(\frac{\sin x}x = 1)$ 得原式= $\pi\cdot1=\pi$ 
