@@ -1,5 +1,6 @@
 ## 在解题过程中多用一些几何意义吧!
-
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 对有些人来说, 无论是在初中数学中还是高中数学中, 几何都有些烦人. 不过有时, 要解决代数问题, 我们也得联系几何意义. 下面是一道例题
 
 ---

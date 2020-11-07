@@ -1,5 +1,6 @@
 定义$\vec{OM}=(a,b)$的“相伴函数“为$f(x)=a\sin x + b\cos x (x\in \mathbb{R})$,
-
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
  向量$\vec{OM}=(a,b)$称为函数$f(x)=a\sin x + b\cos x$的“相伴向量”(其中$O$为坐标原点). 
 
 记平面内所有向量的“相伴函数”构成的集合为$S$.

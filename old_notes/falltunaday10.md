@@ -1,5 +1,6 @@
 亚历山大港的希罗 (Hero of Alexandria) 是一位多才多艺的工程师, 汽转球, (已知最早的蒸汽机, 尽管后人普遍认为这种玩具对生产没什么作用), 自动售货机, 风力风琴等有趣的机械都是他的发明.
-
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 而要提到希罗在数学上的成就, 家喻户晓的**海伦公式** (Heron's formula)就以他命名, 而这一期文章要提到的是另一个希罗的发明——**巴比伦算法**.
 
 巴比伦算法是一种估算数的平方根的算法.

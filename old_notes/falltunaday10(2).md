@@ -1,5 +1,7 @@
 求椭圆焦点三角形$PF_1F_2$面积
 
+<script 
+  src="https://cdn.bootcss.com/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <img src="../img/day12/Screen Shot 5780-11-25 at 14.24.18.png" alt="Screen Shot 5780-11-25 at 14.24.18" style="zoom:30%;" />
 
 已知: 椭圆 $\frac{x^2}{a^2}+\frac{y^2}{b^2}=1 (a>b), F_1, F_2$为椭圆两焦点, $\angle F_1PF_2=\theta$, 
